@@ -9,7 +9,7 @@ Auteurs: Raphaëlle Martin (MARR24569507) et David-Emmanuel Perron-Chouinard (PE
 Le programme est compilé directement dans Visual Studio.
 Avant d'exécuter le programme:
 -Aller dans le fichier main.cpp à la ligne #8
--Modifier la ligne afin qu'elle contienne l'emplacement du ficher "Exemple.alv",voir exemple ci-dessous:
+-Modifier la ligne afin qu'elle contienne l'emplacement du ficher "Exemple.avi",voir exemple ci-dessous:
     wstring path_input = L"PATH_TO_FILE/Example.avi";
 
 ## Dépendances:
