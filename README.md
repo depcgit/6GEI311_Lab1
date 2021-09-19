@@ -1,22 +1,22 @@
 # 6GEI311_Lab1
 
-##Description
+## Description
 Cours: 6GEI311 - Architecture des Logiciels
 Laboratoire 1: Introduction à DirectShow et à des composantes COM
 Auteurs: Raphaëlle Martin (MARR24569507) et David-Emmanuel Perron-Chouinard (PERD17119702)
 
-##Instructions d'utilisation:
+## Instructions d'utilisation:
 Le programme est compilé directement dans Visual Studio.
 Avant d'exécuter le programme:
 -Aller dans le fichier main.cpp à la ligne #8
 -Modifier la ligne afin qu'elle contienne l'emplacement du ficher "Exemple.alv",voir exemple ci-dessous:
     wstring path_input = L"PATH_TO_FILE/Example.avi";
 
-##Dépendances:
+## Dépendances:
 L'utilisateur doit avoir "DirectShow" installé sur son ordinateur.
 
 
-##Guide d'utilisation
+## Guide d'utilisation
 Lors de l'exécution du programme les commandes: P, A, R et Q peuvent être entrées dans la console ouverte par Visual Studio lors de l'exécution du programme.
 
 Appuyer sur la touche P pause la vidéo si elle jouait et la fait jouer si elle était pausée
